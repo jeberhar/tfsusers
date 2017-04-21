@@ -1,5 +1,7 @@
 **Project Description**
 
+**Welcome CodePlex users!**
+
 **If you're using TFS 2008 or later, check out TFS Projects, it uses the TFS API to generate email lists!  TFS Users is still useful for CLI operations, or if you have more specialized TFS user needs.**
 
 TFSUsers.pl will gather how many users are supported on a given TFS instance. Default TFS installations don't provide this info without painful drudgery.
@@ -35,6 +37,6 @@ I ask is that proper credit be given where credit is due.  I'm not sure how
 portable this code would be because I'm not an expert in the TFS API by any
 means, but it would at least provide a high level blueprint.
 
-For a project by project user audit check out my other tool at http://tfsprojects.codeplex.com
+For a project by project user audit check out my other tool at http://github.com/jeberhar/tfsprojects
 
 Copyright 2017 Jay Eberhard.
