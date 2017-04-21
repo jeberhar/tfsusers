@@ -1,5 +1,3 @@
-**Project Description**
-
 **Welcome CodePlex users!**
 
 **If you're using TFS 2008 or later, check out TFS Projects, it uses the TFS API to generate email lists!  TFS Users is still useful for CLI operations, or if you have more specialized TFS user needs.**
